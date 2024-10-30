@@ -1,4 +1,4 @@
-#Single-Page Website with Custom Tag Implementation
+# Single-Page Website with Custom Tag Implementation
 
 This project is a single-page website with a layout that has been implemented according to the assignment's requirements.
 
@@ -48,7 +48,7 @@ This line registers the custom element <my-post> with the browser:
 customElements.define('my-post', Post);
 ```
 
-##Usage Example
+## Usage Example
 
 To use the custom element in an HTML document, you can include it as follows:
 ```html
