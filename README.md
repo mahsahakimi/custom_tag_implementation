@@ -55,6 +55,6 @@ To use the custom element in an HTML document, you can include it as follows:
 <my-post title="My First Post Title">This is the content of my first post.</my-post>
 ```
 
-
-
+## Related Links
+- [GitHub Pages](https://mahsahakimi.github.io/custom_tag_implementation/)
 
